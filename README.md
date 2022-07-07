@@ -34,12 +34,12 @@ Total starred repositories: `212`
 
 ## Assembly
 
-  - [kanaka/mal](https://github.com/kanaka/mal) - mal - Make a Lisp (⭐️8726)
+  - [kanaka/mal](https://github.com/kanaka/mal) - mal - Make a Lisp (⭐️8729)
 
 ## C
 
   - [RandyGaul/qu3e](https://github.com/RandyGaul/qu3e) - Lightweight and Simple 3D Open Source Physics Engine in C++ \[*zlib License*\] (⭐️805)
-  - [ThusWroteNomad/GameNetworkingResources](https://github.com/ThusWroteNomad/GameNetworkingResources) - A Curated List of Game Network Programming Resources (⭐️4800)
+  - [ThusWroteNomad/GameNetworkingResources](https://github.com/ThusWroteNomad/GameNetworkingResources) - A Curated List of Game Network Programming Resources (⭐️4805)
 
 ## C#
 
@@ -48,12 +48,12 @@ Total starred repositories: `212`
 ## C++
 
   - [aappleby/MetroBoy](https://github.com/aappleby/MetroBoy) - A repository of gate-level simulators and tools for the original Game Boy. (⭐️970)
-  - [arrayfire/arrayfire](https://github.com/arrayfire/arrayfire) - ArrayFire: a general purpose GPU library. \[*BSD 3-Clause "New" or "Revised" License*\] (⭐️3851)
+  - [arrayfire/arrayfire](https://github.com/arrayfire/arrayfire) - ArrayFire: a general purpose GPU library. \[*BSD 3-Clause "New" or "Revised" License*\] (⭐️3852)
   - [Dooskington/GameLad](https://github.com/Dooskington/GameLad) - :tv: An (almost) fully featured Game Boy emulator. \[*MIT License*\] (⭐️461)
-  - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine \[*MIT License*\] (⭐️50517)
+  - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine \[*MIT License*\] (⭐️50542)
   - [larsXYZ/Gravity-Simulator](https://github.com/larsXYZ/Gravity-Simulator) - This is the source code for my gravity simulation project. DISCLAIMER: Keep in mind it started out as a simple test. So the code is horribly organized. I am also Norwegian, so some stuff might be in Norwegian. I've tried to make it easier to understand.  \[*MIT License*\] (⭐️105)
   - [pierreyoda/o2r](https://github.com/pierreyoda/o2r) - Open Rodent's Revenge is a C++ remake of the famous Microsoft game "Rodent's Revenge" (1991). \[*MIT License*\] (⭐️21)
-  - [uNetworking/uWebSockets.js](https://github.com/uNetworking/uWebSockets.js) - μWebSockets for Node.js back-ends :metal: \[*Apache License 2.0*\] (⭐️5120)
+  - [uNetworking/uWebSockets.js](https://github.com/uNetworking/uWebSockets.js) - μWebSockets for Node.js back-ends :metal: \[*Apache License 2.0*\] (⭐️5124)
 
 ## CSS
 
@@ -61,93 +61,93 @@ Total starred repositories: `212`
 
 ## Common Lisp
 
-  - [open-goal/jak-project](https://github.com/open-goal/jak-project) - Reviving the language that brought us the Jak & Daxter Series \[*ISC License*\] (⭐️1763)
+  - [open-goal/jak-project](https://github.com/open-goal/jak-project) - Reviving the language that brought us the Jak & Daxter Series \[*ISC License*\] (⭐️1766)
 
 ## Dart
 
-  - [trentpiercy/trace](https://github.com/trentpiercy/trace) - Modern crypto portfolio & market explorer. Built with @Flutter \[*GNU GPLv3*\] (⭐️883)
+  - [trentpiercy/trace](https://github.com/trentpiercy/trace) - Modern crypto portfolio & market explorer. Built with @Flutter \[*GNU GPLv3*\] (⭐️882)
 
 ## Erlang
 
-  - [ninenines/cowboy](https://github.com/ninenines/cowboy) - Small, fast, modern HTTP server for Erlang/OTP. \[*ISC License*\] (⭐️6680)
+  - [ninenines/cowboy](https://github.com/ninenines/cowboy) - Small, fast, modern HTTP server for Erlang/OTP. \[*ISC License*\] (⭐️6681)
 
 ## Go
 
-  - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like. \[*BSD 3-Clause "New" or "Revised" License*\] (⭐️35835)
-  - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀 \[*MIT License*\] (⭐️25717)
+  - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like. \[*BSD 3-Clause "New" or "Revised" License*\] (⭐️35848)
+  - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀 \[*MIT License*\] (⭐️25757)
   - [rverst/stargazer](https://github.com/rverst/stargazer) - Stargazer creates a sorted list of your stared GitHub repositories - your personal awesome-list. \[*MIT License*\] (⭐️15)
 
 ## HTML
 
-  - [munificent/craftinginterpreters](https://github.com/munificent/craftinginterpreters) - Repository for the book "Crafting Interpreters" (⭐️5222)
-  - [nathanreyes/v-calendar](https://github.com/nathanreyes/v-calendar) - An elegant calendar and datepicker plugin for Vue. \[*MIT License*\] (⭐️3463)
+  - [munificent/craftinginterpreters](https://github.com/munificent/craftinginterpreters) - Repository for the book "Crafting Interpreters" (⭐️5229)
+  - [nathanreyes/v-calendar](https://github.com/nathanreyes/v-calendar) - An elegant calendar and datepicker plugin for Vue. \[*MIT License*\] (⭐️3465)
   - [OctoLinker/OctoLinker](https://github.com/OctoLinker/OctoLinker) - OctoLinker — Links together, what belongs together \[*MIT License*\] (⭐️4976)
   - [SimHacker/micropolis](https://github.com/SimHacker/micropolis) - Automatically exported from code.google.com/p/micropolis (⭐️729)
 
 ## Haskell
 
-  - [wasp-lang/wasp](https://github.com/wasp-lang/wasp) - A programming language that understands what a web app is. \[*MIT License*\] (⭐️1770)
+  - [wasp-lang/wasp](https://github.com/wasp-lang/wasp) - A programming language that understands what a web app is. \[*MIT License*\] (⭐️1773)
 
 ## Java
 
-  - [andpor/react-native-sqlite-storage](https://github.com/andpor/react-native-sqlite-storage) - Full featured SQLite3 Native Plugin for React Native (Android and iOS) \[*MIT License*\] (⭐️2452)
-  - [gouthampradhan/leetcode](https://github.com/gouthampradhan/leetcode) - Leetcode solutions (⭐️3001)
-  - [zxing/zxing](https://github.com/zxing/zxing) - ZXing ("Zebra Crossing") barcode scanning library for Java, Android \[*Apache License 2.0*\] (⭐️29767)
+  - [andpor/react-native-sqlite-storage](https://github.com/andpor/react-native-sqlite-storage) - Full featured SQLite3 Native Plugin for React Native (Android and iOS) \[*MIT License*\] (⭐️2453)
+  - [gouthampradhan/leetcode](https://github.com/gouthampradhan/leetcode) - Leetcode solutions (⭐️3002)
+  - [zxing/zxing](https://github.com/zxing/zxing) - ZXing ("Zebra Crossing") barcode scanning library for Java, Android \[*Apache License 2.0*\] (⭐️29768)
 
 ## JavaScript
 
-  - [adam-p/markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending. \[*MIT License*\] (⭐️55808)
+  - [adam-p/markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending. \[*MIT License*\] (⭐️55822)
   - [algolia/vue-instantsearch](https://github.com/algolia/vue-instantsearch) - 👀  Algolia components for building search UIs with Vue.js \[*MIT License*\] (⭐️831)
-  - [amark/gun](https://github.com/amark/gun) - An open source cybersecurity protocol for syncing decentralized graph data. (⭐️16154)
-  - [atlassian/react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) - Beautiful and accessible drag and drop for lists with React (⭐️27371)
+  - [amark/gun](https://github.com/amark/gun) - An open source cybersecurity protocol for syncing decentralized graph data. (⭐️16156)
+  - [atlassian/react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) - Beautiful and accessible drag and drop for lists with React (⭐️27382)
   - [batuhanorhn/react-native-expo-redux](https://github.com/batuhanorhn/react-native-expo-redux) - React Native Expo Redux and Navigation Boilerplate- Clone and Run ! \[*MIT License*\] (⭐️15)
-  - [ben-rogerson/twin.macro](https://github.com/ben-rogerson/twin.macro) - 🦹‍♂️ Twin blends the magic of Tailwind with the flexibility of css-in-js (emotion, styled-components, stitches and goober) at build time. \[*MIT License*\] (⭐️5937)
+  - [ben-rogerson/twin.macro](https://github.com/ben-rogerson/twin.macro) - 🦹‍♂️ Twin blends the magic of Tailwind with the flexibility of css-in-js (emotion, styled-components, stitches and goober) at build time. \[*MIT License*\] (⭐️5938)
   - [benmarten/CryptoETF](https://github.com/benmarten/CryptoETF) - Portfolio Overview Tool for Your CryptoCoin Capitalization-Weighted Portfolio. \[*Apache License 2.0*\] (⭐️379)
-  - [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜  \[*MIT License*\] (⭐️12120)
-  - [carloscuesta/gitmoji-cli](https://github.com/carloscuesta/gitmoji-cli) - A gitmoji interactive command line tool for using emojis on commits. 💻 \[*MIT License*\] (⭐️3835)
-  - [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges \[*MIT License*\] (⭐️25021)
-  - [chartjs/Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the <canvas> tag \[*MIT License*\] (⭐️57402)
-  - [chjj/blessed](https://github.com/chjj/blessed) - A high-level terminal interface library for node.js. (⭐️10546)
+  - [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜  \[*MIT License*\] (⭐️12124)
+  - [carloscuesta/gitmoji-cli](https://github.com/carloscuesta/gitmoji-cli) - A gitmoji interactive command line tool for using emojis on commits. 💻 \[*MIT License*\] (⭐️3838)
+  - [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges \[*MIT License*\] (⭐️25028)
+  - [chartjs/Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the <canvas> tag \[*MIT License*\] (⭐️57406)
+  - [chjj/blessed](https://github.com/chjj/blessed) - A high-level terminal interface library for node.js. (⭐️10545)
   - [Chmood/quasu](https://github.com/Chmood/quasu) - Starter app with Vue JS, Quasar framework, Vuex and plenty of cool stuff \[*MIT License*\] (⭐️23)
   - [claustres/quasar-feathers-tutorial](https://github.com/claustres/quasar-feathers-tutorial) - Combining the power of Quasar and Feathers to build real-time web apps (⭐️86)
   - [creativetimofficial/argon-react-native](https://github.com/creativetimofficial/argon-react-native) - Argon React Native  \[*MIT License*\] (⭐️548)
-  - [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser. \[*MIT License*\] (⭐️39359)
-  - [debug-js/debug](https://github.com/debug-js/debug) - A tiny JavaScript debugging utility modelled after Node.js core's debugging technique. Works in Node.js and web browsers \[*MIT License*\] (⭐️10230)
-  - [deepsourcelabs/good-first-issue](https://github.com/deepsourcelabs/good-first-issue) - Make your first open-source contribution. \[*MIT License*\] (⭐️1056)
+  - [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser. \[*MIT License*\] (⭐️39375)
+  - [debug-js/debug](https://github.com/debug-js/debug) - A tiny JavaScript debugging utility modelled after Node.js core's debugging technique. Works in Node.js and web browsers \[*MIT License*\] (⭐️10229)
+  - [deepsourcelabs/good-first-issue](https://github.com/deepsourcelabs/good-first-issue) - Make your first open-source contribution. \[*MIT License*\] (⭐️1060)
   - [deseretdigital/dayzed](https://github.com/deseretdigital/dayzed) - Primitives to build simple, flexible, WAI-ARIA compliant React date-picker components. \[*MIT License*\] (⭐️540)
   - [egoist/vuepack](https://github.com/egoist/vuepack) - :package: A modern starter  which uses Vue 2, Vuex, Vue-router and Webpack 2 (and even Electron) \[*MIT License*\] (⭐️2470)
   - [eugenkiss/7guis](https://github.com/eugenkiss/7guis) - 7GUIs is a GUI programming usability benchmark. (⭐️873)
-  - [expo/examples](https://github.com/expo/examples) - Example projects that demonstrate how to use Expo APIs and integrate Expo with other popular tools (⭐️1207)
-  - [facebook/react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces. \[*MIT License*\] (⭐️190879)
+  - [expo/examples](https://github.com/expo/examples) - Example projects that demonstrate how to use Expo APIs and integrate Expo with other popular tools (⭐️1209)
+  - [facebook/react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces. \[*MIT License*\] (⭐️190941)
   - [feathers-plus/graphql](https://github.com/feathers-plus/graphql) - A high performance GraphQL adapter for SQL and non-SQL databases. \[*MIT License*\] (⭐️77) *Archived!*
-  - [FormidableLabs/webpack-dashboard](https://github.com/FormidableLabs/webpack-dashboard) - A CLI dashboard for webpack dev server \[*MIT License*\] (⭐️13884)
+  - [FormidableLabs/webpack-dashboard](https://github.com/FormidableLabs/webpack-dashboard) - A CLI dashboard for webpack dev server \[*MIT License*\] (⭐️13887)
   - [gridsome/gridsome](https://github.com/gridsome/gridsome) - ⚡️ The Jamstack framework for Vue.js \[*MIT License*\] (⭐️8253)
-  - [iamkun/dayjs](https://github.com/iamkun/dayjs) - ⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API \[*MIT License*\] (⭐️39479)
-  - [jaredpalmer/tsdx](https://github.com/jaredpalmer/tsdx) - Zero-config CLI for TypeScript package development \[*MIT License*\] (⭐️9889)
-  - [krisk/Fuse](https://github.com/krisk/Fuse) - Lightweight fuzzy-search, in JavaScript \[*Apache License 2.0*\] (⭐️14411)
+  - [iamkun/dayjs](https://github.com/iamkun/dayjs) - ⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API \[*MIT License*\] (⭐️39492)
+  - [jaredpalmer/tsdx](https://github.com/jaredpalmer/tsdx) - Zero-config CLI for TypeScript package development \[*MIT License*\] (⭐️9894)
+  - [krisk/Fuse](https://github.com/krisk/Fuse) - Lightweight fuzzy-search, in JavaScript \[*Apache License 2.0*\] (⭐️14414)
   - [Lightnet/project-phaser3-matterjs](https://github.com/Lightnet/project-phaser3-matterjs) - Simple space game shooter with Phaser 3.x and Matter.js physics with Lance-gg multiplayer client and server build. (⭐️7)
   - [nicholas-ochoa/OpenSC2K](https://github.com/nicholas-ochoa/OpenSC2K) - OpenSC2K - An Open Source remake of Sim City 2000 by Maxis \[*GNU GPLv3*\] (⭐️4791)
   - [npkgz/cli-progress](https://github.com/npkgz/cli-progress) -  :hourglass: easy to use progress-bar for command-line/terminal applications \[*MIT License*\] (⭐️704)
-  - [nuxt/nuxt.js](https://github.com/nuxt/nuxt.js) - The Intuitive Vue(2) Framework (⭐️40804)
-  - [oblador/react-native-vector-icons](https://github.com/oblador/react-native-vector-icons) - Customizable Icons for React Native with support for image source and full styling. \[*MIT License*\] (⭐️15889)
+  - [nuxt/nuxt.js](https://github.com/nuxt/nuxt.js) - The Intuitive Vue(2) Framework (⭐️40813)
+  - [oblador/react-native-vector-icons](https://github.com/oblador/react-native-vector-icons) - Customizable Icons for React Native with support for image source and full styling. \[*MIT License*\] (⭐️15890)
   - [opengaming/osgameclones](https://github.com/opengaming/osgameclones) - Open Source Clones of Popular Games (⭐️1301)
-  - [pablo-abc/svelte-markdown](https://github.com/pablo-abc/svelte-markdown) - Markdown parser to svelte components \[*MIT License*\] (⭐️119)
-  - [panva/node-oidc-provider](https://github.com/panva/node-oidc-provider) - OpenID Certified™ OAuth 2.0 Authorization Server implementation for Node.js \[*MIT License*\] (⭐️2285)
+  - [pablo-abc/svelte-markdown](https://github.com/pablo-abc/svelte-markdown) - Markdown parser to svelte components \[*MIT License*\] (⭐️120)
+  - [panva/node-oidc-provider](https://github.com/panva/node-oidc-provider) - OpenID Certified™ OAuth 2.0 Authorization Server implementation for Node.js \[*MIT License*\] (⭐️2286)
   - [pngwn/MDsveX](https://github.com/pngwn/MDsveX) - A markdown preprocessor for Svelte. \[*MIT License*\] (⭐️1364)
   - [primus/primus](https://github.com/primus/primus) - :zap: Primus, the creator god of the transformers & an abstraction layer for real-time to prevent module lock-in. \[*MIT License*\] (⭐️4355)
-  - [pure-css/pure](https://github.com/pure-css/pure) - A set of small, responsive CSS modules that you can use in every web project. (⭐️22449)
-  - [quasarframework/quasar](https://github.com/quasarframework/quasar) - Quasar Framework - Build high-performance VueJS user interfaces in record time \[*MIT License*\] (⭐️21556)
-  - [serverless/serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –  \[*MIT License*\] (⭐️43030)
+  - [pure-css/pure](https://github.com/pure-css/pure) - A set of small, responsive CSS modules that you can use in every web project. (⭐️22451)
+  - [quasarframework/quasar](https://github.com/quasarframework/quasar) - Quasar Framework - Build high-performance VueJS user interfaces in record time \[*MIT License*\] (⭐️21566)
+  - [serverless/serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –  \[*MIT License*\] (⭐️43037)
   - [SmallComfort/HackerNews](https://github.com/SmallComfort/HackerNews) - Hacker News, powered by Vue and React Native (⭐️74)
-  - [sveltejs/kit](https://github.com/sveltejs/kit) - The fastest way to build Svelte apps \[*MIT License*\] (⭐️9068)
-  - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development. \[*MIT License*\] (⭐️58523)
-  - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework \[*MIT License*\] (⭐️89143)
+  - [sveltejs/kit](https://github.com/sveltejs/kit) - The fastest way to build Svelte apps \[*MIT License*\] (⭐️9085)
+  - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development. \[*MIT License*\] (⭐️58557)
+  - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework \[*MIT License*\] (⭐️89200)
   - [vuejs/vue-hackernews-2.0](https://github.com/vuejs/vue-hackernews-2.0) - HackerNews clone built with Vue 2.0, vue-router & vuex, with server-side rendering \[*MIT License*\] (⭐️10960)
   - [XristMisyris/quasar-starter-frontend](https://github.com/XristMisyris/quasar-starter-frontend) - Quasar starter app with JWT auth (⭐️76)
 
 ## PHP
 
-  - [laravel/laravel](https://github.com/laravel/laravel) - Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things. (⭐️70177)
+  - [laravel/laravel](https://github.com/laravel/laravel) - Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things. (⭐️70188)
   - [soundasleep/openclerk](https://github.com/soundasleep/openclerk) - Keep track of cryptocurrency finances \[*GNU GPLv3*\] (⭐️71)
 
 ## Perl
@@ -158,65 +158,65 @@ Total starred repositories: `212`
 
   - [adamlwgriffiths/PyGLy](https://github.com/adamlwgriffiths/PyGLy) - Pure Python OpenGL framework using PyOpenGL (⭐️37) *Archived!*
   - [danieldjohnson/biaxial-rnn-music-composition](https://github.com/danieldjohnson/biaxial-rnn-music-composition) - A recurrent neural network designed to generate classical music. \[*BSD 2-Clause "Simplified" License*\] (⭐️1880)
-  - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards. (⭐️186708)
+  - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards. (⭐️186905)
   - [eon01/kubernetes-workshop](https://github.com/eon01/kubernetes-workshop) - ⚙️ A Gentle introduction to Kubernetes with more than just the basics. 🌟 Give it a star if you like it. (⭐️3138)
   - [Kinto/kinto](https://github.com/Kinto/kinto) - A generic JSON document store with sharing and synchronisation capabilities. (⭐️4195)
-  - [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager \[*GNU GPLv3*\] (⭐️12672)
-  - [magenta/magenta](https://github.com/magenta/magenta) - Magenta: Music and Art Generation with Machine Intelligence \[*Apache License 2.0*\] (⭐️17723)
-  - [mherrmann/fbs](https://github.com/mherrmann/fbs) - Create Python GUIs with Qt in minutes \[*GNU GPLv3*\] (⭐️3433)
+  - [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager \[*GNU GPLv3*\] (⭐️12678)
+  - [magenta/magenta](https://github.com/magenta/magenta) - Magenta: Music and Art Generation with Machine Intelligence \[*Apache License 2.0*\] (⭐️17724)
+  - [mherrmann/fbs](https://github.com/mherrmann/fbs) - Create Python GUIs with Qt in minutes \[*GNU GPLv3*\] (⭐️3434)
   - [speedyg0nz/MagInkCal](https://github.com/speedyg0nz/MagInkCal) - E-Ink Magic Calendar that automatically syncs to Google Calendar and runs off a battery powered Raspberry Pi Zero \[*Apache License 2.0*\] (⭐️2686)
-  - [Textualize/textual](https://github.com/Textualize/textual) - Textual is a TUI (Text User Interface) framework for Python inspired by modern web development. \[*MIT License*\] (⭐️11879)
+  - [Textualize/textual](https://github.com/Textualize/textual) - Textual is a TUI (Text User Interface) framework for Python inspired by modern web development. \[*MIT License*\] (⭐️11888)
   - [Trilarion/opensourcegames](https://github.com/Trilarion/opensourcegames) - Technical infos of open source games. \[*Creative Commons Zero v1.0 Universal*\] (⭐️280)
   - [vispy/vispy](https://github.com/vispy/vispy) - Main repository for Vispy (⭐️2898)
 
 ## Rust
 
-  - [a-b-street/abstreet](https://github.com/a-b-street/abstreet) - Transportation planning and traffic simulation software for creating cities friendlier to walking, biking, and public transit \[*Apache License 2.0*\] (⭐️6650)
-  - [amethyst/legion](https://github.com/amethyst/legion) - High performance Rust ECS library \[*MIT License*\] (⭐️1351)
+  - [a-b-street/abstreet](https://github.com/a-b-street/abstreet) - Transportation planning and traffic simulation software for creating cities friendlier to walking, biking, and public transit \[*Apache License 2.0*\] (⭐️6654)
+  - [amethyst/legion](https://github.com/amethyst/legion) - High performance Rust ECS library \[*MIT License*\] (⭐️1350)
   - [aome510/hackernews-TUI](https://github.com/aome510/hackernews-TUI) - A Terminal UI to browse Hacker News \[*MIT License*\] (⭐️335)
   - [ashleygwilliams/assert_approx_eq](https://github.com/ashleygwilliams/assert_approx_eq) - a rust macro for asserting 2 numbers are approximately equal \[*Apache License 2.0*\] (⭐️22)
   - [autumnai/leaf](https://github.com/autumnai/leaf) - Open Machine Intelligence Framework for Hackers. (GPU/CPU) \[*Apache License 2.0*\] (⭐️5475)
   - [awslabs/aws-lambda-rust-runtime](https://github.com/awslabs/aws-lambda-rust-runtime) - A Rust runtime for AWS Lambda \[*Apache License 2.0*\] (⭐️2136)
-  - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore \[*The Unlicense*\] (⭐️31872)
+  - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore \[*The Unlicense*\] (⭐️31893)
   - [citybound/citybound](https://github.com/citybound/citybound) - A work-in-progress, open-source, multi-player city simulation game. \[*GNU AGPLv3*\] (⭐️7034)
-  - [clap-rs/clap](https://github.com/clap-rs/clap) - A full featured, fast Command Line Argument Parser for Rust \[*Apache License 2.0*\] (⭐️8935)
-  - [crossterm-rs/crossterm](https://github.com/crossterm-rs/crossterm) - Cross platform terminal library rust \[*MIT License*\] (⭐️1718)
+  - [clap-rs/clap](https://github.com/clap-rs/clap) - A full featured, fast Command Line Argument Parser for Rust \[*Apache License 2.0*\] (⭐️8940)
+  - [crossterm-rs/crossterm](https://github.com/crossterm-rs/crossterm) - Cross platform terminal library rust \[*MIT License*\] (⭐️1720)
   - [DeMille/encrusted](https://github.com/DeMille/encrusted) - A z-machine (interpreter) for text adventure games like Zork \[*MIT License*\] (⭐️111)
-  - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript. \[*MIT License*\] (⭐️83723)
-  - [fdehau/tui-rs](https://github.com/fdehau/tui-rs) - Build terminal user interfaces and dashboards using Rust \[*MIT License*\] (⭐️7932)
+  - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript. \[*MIT License*\] (⭐️83760)
+  - [fdehau/tui-rs](https://github.com/fdehau/tui-rs) - Build terminal user interfaces and dashboards using Rust \[*MIT License*\] (⭐️7938)
   - [FloVanGH/cargo-node](https://github.com/FloVanGH/cargo-node) - A cargo sub command to build, run and deploy rust wasm applications as browser, electron or cordova app. \[*MIT License*\] (⭐️79) *Archived!*
-  - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org \[*MIT License*\] (⭐️8926)
+  - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org \[*MIT License*\] (⭐️8932)
   - [ggez/ggez](https://github.com/ggez/ggez) - Rust library to create a Good Game Easily \[*MIT License*\] (⭐️3334)
   - [hecrj/coffee](https://github.com/hecrj/coffee) - An opinionated 2D game engine for Rust \[*MIT License*\] (⭐️894)
   - [HNicolas/aoc2020](https://github.com/HNicolas/aoc2020) - Advent of code 2020 (⭐️1)
-  - [koute/cargo-web](https://github.com/koute/cargo-web) - A Cargo subcommand for the client-side Web \[*Apache License 2.0*\] (⭐️1059)
+  - [koute/cargo-web](https://github.com/koute/cargo-web) - A Cargo subcommand for the client-side Web \[*Apache License 2.0*\] (⭐️1058)
   - [linebender/runebender](https://github.com/linebender/runebender) - A font editor written in Rust. \[*Apache License 2.0*\] (⭐️658)
   - [mvdnes/rboy](https://github.com/mvdnes/rboy) - A Gameboy Emulator in Rust \[*MIT License*\] (⭐️484)
-  - [nuta/kerla](https://github.com/nuta/kerla) - A new operating system kernel with Linux binary compatibility written in Rust. (⭐️3071)
-  - [osohq/oso](https://github.com/osohq/oso) - Oso is a batteries-included framework for building authorization in your application. \[*Apache License 2.0*\] (⭐️2594)
-  - [pest-parser/pest](https://github.com/pest-parser/pest) - The Elegant Parser \[*Apache License 2.0*\] (⭐️3114)
-  - [pingcap/talent-plan](https://github.com/pingcap/talent-plan) - open source training courses about distributed database and distributed systems (⭐️7644)
+  - [nuta/kerla](https://github.com/nuta/kerla) - A new operating system kernel with Linux binary compatibility written in Rust. (⭐️3070)
+  - [osohq/oso](https://github.com/osohq/oso) - Oso is a batteries-included framework for building authorization in your application. \[*Apache License 2.0*\] (⭐️2595)
+  - [pest-parser/pest](https://github.com/pest-parser/pest) - The Elegant Parser \[*Apache License 2.0*\] (⭐️3115)
+  - [pingcap/talent-plan](https://github.com/pingcap/talent-plan) - open source training courses about distributed database and distributed systems (⭐️7649)
   - [PistonDevelopers/conrod](https://github.com/PistonDevelopers/conrod) - An easy-to-use, 2D GUI library written entirely in Rust. (⭐️3264)
-  - [quickwit-oss/tantivy](https://github.com/quickwit-oss/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust \[*MIT License*\] (⭐️6579)
-  - [redox-os/orbtk](https://github.com/redox-os/orbtk) - The Rust UI-Toolkit. \[*MIT License*\] (⭐️3652)
+  - [quickwit-oss/tantivy](https://github.com/quickwit-oss/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust \[*MIT License*\] (⭐️6582)
+  - [redox-os/orbtk](https://github.com/redox-os/orbtk) - The Rust UI-Toolkit. \[*MIT License*\] (⭐️3651)
   - [rust-lang/rls](https://github.com/rust-lang/rls) - Repository for the Rust Language Server (aka RLS) (⭐️3554)
-  - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software. (⭐️68408)
-  - [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code (⭐️7773)
-  - [rust-lang/rustfmt](https://github.com/rust-lang/rustfmt) - Format Rust code \[*Apache License 2.0*\] (⭐️4470)
-  - [rust-lang/rustup](https://github.com/rust-lang/rustup) - The Rust toolchain installer \[*Apache License 2.0*\] (⭐️4733)
-  - [rust-ndarray/ndarray](https://github.com/rust-ndarray/ndarray) - ndarray: an N-dimensional array with array views, multidimensional slicing, and efficient operations \[*Apache License 2.0*\] (⭐️2262)
-  - [Rust-SDL2/rust-sdl2](https://github.com/Rust-SDL2/rust-sdl2) - SDL2 bindings for Rust \[*MIT License*\] (⭐️2028)
-  - [rustwasm/wasm-bindgen](https://github.com/rustwasm/wasm-bindgen) - Facilitating high-level interactions between Wasm modules and JavaScript \[*Apache License 2.0*\] (⭐️5392)
-  - [rustwasm/wasm-pack](https://github.com/rustwasm/wasm-pack) - 📦✨ your favorite rust -> wasm workflow tool! \[*Apache License 2.0*\] (⭐️4337)
+  - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software. (⭐️68444)
+  - [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code (⭐️7779)
+  - [rust-lang/rustfmt](https://github.com/rust-lang/rustfmt) - Format Rust code \[*Apache License 2.0*\] (⭐️4471)
+  - [rust-lang/rustup](https://github.com/rust-lang/rustup) - The Rust toolchain installer \[*Apache License 2.0*\] (⭐️4737)
+  - [rust-ndarray/ndarray](https://github.com/rust-ndarray/ndarray) - ndarray: an N-dimensional array with array views, multidimensional slicing, and efficient operations \[*Apache License 2.0*\] (⭐️2264)
+  - [Rust-SDL2/rust-sdl2](https://github.com/Rust-SDL2/rust-sdl2) - SDL2 bindings for Rust \[*MIT License*\] (⭐️2030)
+  - [rustwasm/wasm-bindgen](https://github.com/rustwasm/wasm-bindgen) - Facilitating high-level interactions between Wasm modules and JavaScript \[*Apache License 2.0*\] (⭐️5394)
+  - [rustwasm/wasm-pack](https://github.com/rustwasm/wasm-pack) - 📦✨ your favorite rust -> wasm workflow tool! \[*Apache License 2.0*\] (⭐️4340)
   - [ryanisaacg/quicksilver](https://github.com/ryanisaacg/quicksilver) - A simple framework for 2D games on desktop and web (⭐️746)
-  - [seanmonstar/reqwest](https://github.com/seanmonstar/reqwest) - An easy and powerful Rust HTTP Client \[*Apache License 2.0*\] (⭐️5776)
+  - [seanmonstar/reqwest](https://github.com/seanmonstar/reqwest) - An easy and powerful Rust HTTP Client \[*Apache License 2.0*\] (⭐️5778)
   - [simias/rustation](https://github.com/simias/rustation) - Playstation emulator in the Rust programing language (⭐️514)
-  - [spacejam/sled](https://github.com/spacejam/sled) - the champagne of beta embedded databases \[*Apache License 2.0*\] (⭐️6001)
-  - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! \[*ISC License*\] (⭐️27180)
-  - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web \[*Apache License 2.0*\] (⭐️22825)
+  - [spacejam/sled](https://github.com/spacejam/sled) - the champagne of beta embedded databases \[*Apache License 2.0*\] (⭐️6003)
+  - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! \[*ISC License*\] (⭐️27210)
+  - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web \[*Apache License 2.0*\] (⭐️22849)
   - [TaKO8Ki/gobang](https://github.com/TaKO8Ki/gobang) - A cross-platform TUI database management tool written in Rust \[*MIT License*\] (⭐️1885)
-  - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend. \[*Apache License 2.0*\] (⭐️45827)
-  - [theseus-os/Theseus](https://github.com/theseus-os/Theseus) - Theseus is a modern OS written from scratch in Rust that explores 𝐢𝐧𝐭𝐫𝐚𝐥𝐢𝐧𝐠𝐮𝐚𝐥 𝐝𝐞𝐬𝐢𝐠𝐧, novel OS structure, and state management. It strives to close the semantic gap between compiler and hardware to maximally leverage the power of language safety, and thus shift OS responsibilities like resource management into the compiler. \[*MIT License*\] (⭐️1923)
+  - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend. \[*Apache License 2.0*\] (⭐️45947)
+  - [theseus-os/Theseus](https://github.com/theseus-os/Theseus) - Theseus is a modern OS written from scratch in Rust that explores 𝐢𝐧𝐭𝐫𝐚𝐥𝐢𝐧𝐠𝐮𝐚𝐥 𝐝𝐞𝐬𝐢𝐠𝐧, novel OS structure, and state management. It strives to close the semantic gap between compiler and hardware to maximally leverage the power of language safety, and thus shift OS responsibilities like resource management into the compiler. \[*MIT License*\] (⭐️1925)
   - [WesleyAC/plotty-bird](https://github.com/WesleyAC/plotty-bird) - Flappy Bird implemented on the HP7440A pen plotter (⭐️171)
   - [zesterer/forge](https://github.com/zesterer/forge) - A lightweight, elegant scripting language with built-in Rust-FFI. (⭐️159)
 
@@ -226,89 +226,89 @@ Total starred repositories: `212`
 
 ## Shell
 
-  - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community. \[*MIT License*\] (⭐️147201)
+  - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community. \[*MIT License*\] (⭐️147239)
 
 ## Svelte
 
-  - [open-source-labs/Svelvet](https://github.com/open-source-labs/Svelvet) - A lightweight Svelte component library for building interactive node-based flow diagrams \[*MIT License*\] (⭐️854)
+  - [open-source-labs/Svelvet](https://github.com/open-source-labs/Svelvet) - A lightweight Svelte component library for building interactive node-based flow diagrams \[*MIT License*\] (⭐️858)
   - [rodneylab/sveltekit-blog-mdx](https://github.com/rodneylab/sveltekit-blog-mdx) - SvelteKit MDX starter blog with MDsveX (Svelte in markdown) \[*BSD 3-Clause "New" or "Revised" License*\] (⭐️149)
-  - [simeydotme/svelte-range-slider-pips](https://github.com/simeydotme/svelte-range-slider-pips) - Multi-Thumb, Accessible, Beautiful Range Slider with Pips \[*Mozilla Public License 2.0*\] (⭐️216)
+  - [simeydotme/svelte-range-slider-pips](https://github.com/simeydotme/svelte-range-slider-pips) - Multi-Thumb, Accessible, Beautiful Range Slider with Pips \[*Mozilla Public License 2.0*\] (⭐️217)
 
 ## TeX
 
   - [simias/psx-guide](https://github.com/simias/psx-guide) - Guide to writing a Playstation emulator (⭐️190)
-  - [ybayle/awesome-deep-learning-music](https://github.com/ybayle/awesome-deep-learning-music) - List of articles related to deep learning applied to music \[*MIT License*\] (⭐️2336)
+  - [ybayle/awesome-deep-learning-music](https://github.com/ybayle/awesome-deep-learning-music) - List of articles related to deep learning applied to music \[*MIT License*\] (⭐️2337)
 
 ## TypeScript
 
-  - [abouroubi/nestjs-auth-jwt](https://github.com/abouroubi/nestjs-auth-jwt) - A sample NestJS application, demonstrating how to use JWT Authentication, with short lived access tokens, and long lived refresh token. \[*MIT License*\] (⭐️154)
-  - [adobe/react-spectrum](https://github.com/adobe/react-spectrum) - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences. \[*Apache License 2.0*\] (⭐️6771)
-  - [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components \[*MIT License*\] (⭐️15404)
+  - [abouroubi/nestjs-auth-jwt](https://github.com/abouroubi/nestjs-auth-jwt) - A sample NestJS application, demonstrating how to use JWT Authentication, with short lived access tokens, and long lived refresh token. \[*MIT License*\] (⭐️155)
+  - [adobe/react-spectrum](https://github.com/adobe/react-spectrum) - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences. \[*Apache License 2.0*\] (⭐️6779)
+  - [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components \[*MIT License*\] (⭐️15411)
   - [andywer/threads.js](https://github.com/andywer/threads.js) - 🧵 Make web workers & worker threads as simple as a function call. \[*MIT License*\] (⭐️2498)
-  - [aws/aws-cdk](https://github.com/aws/aws-cdk) - The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code \[*Apache License 2.0*\] (⭐️8883)
-  - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications \[*MIT License*\] (⭐️27452)
+  - [aws/aws-cdk](https://github.com/aws/aws-cdk) - The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code \[*Apache License 2.0*\] (⭐️8889)
+  - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications \[*MIT License*\] (⭐️27467)
   - [codemix/ts-sql](https://github.com/codemix/ts-sql) - A SQL database implemented purely in TypeScript type annotations. (⭐️2486)
-  - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions. (⭐️39805)
-  - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites. \[*MIT License*\] (⭐️34580)
+  - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions. (⭐️39818)
+  - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites. \[*MIT License*\] (⭐️34607)
   - [feathersjs/feathers](https://github.com/feathersjs/feathers) - The API and real-time application framework \[*MIT License*\] (⭐️14028)
-  - [formatjs/formatjs](https://github.com/formatjs/formatjs) - The monorepo home to all of the FormatJS related libraries, most notably react-intl. (⭐️13233)
-  - [getlift/lift](https://github.com/getlift/lift) - Expanding Serverless Framework beyond functions using the AWS CDK \[*MIT License*\] (⭐️672)
+  - [formatjs/formatjs](https://github.com/formatjs/formatjs) - The monorepo home to all of the FormatJS related libraries, most notably react-intl. (⭐️13236)
+  - [getlift/lift](https://github.com/getlift/lift) - Expanding Serverless Framework beyond functions using the AWS CDK \[*MIT License*\] (⭐️671)
   - [ghotiphud/rust-web-starter](https://github.com/ghotiphud/rust-web-starter) - Rust (Rocket & Diesel) + React (w/ Typescript) + PostgreSQL starter pack.  Currently serves my need for a nice Dev Environment. \[*MIT License*\] (⭐️271)
   - [gregjacobs/Autolinker.js](https://github.com/gregjacobs/Autolinker.js) - Utility to Automatically Link URLs, Email Addresses, Phone Numbers, Twitter handles, and Hashtags in a given block of text/HTML \[*MIT License*\] (⭐️1404)
-  - [hashicorp/next-mdx-remote](https://github.com/hashicorp/next-mdx-remote) - Load mdx content from anywhere through getStaticProps in next.js \[*Mozilla Public License 2.0*\] (⭐️1436)
+  - [hashicorp/next-mdx-remote](https://github.com/hashicorp/next-mdx-remote) - Load mdx content from anywhere through getStaticProps in next.js \[*Mozilla Public License 2.0*\] (⭐️1439)
   - [HerringtonDarkholme/kilimanjaro](https://github.com/HerringtonDarkholme/kilimanjaro) - typed vuex 2.0 (⭐️64)
-  - [infinitered/gluegun](https://github.com/infinitered/gluegun) - A delightful toolkit for building TypeScript-powered command-line apps. \[*MIT License*\] (⭐️2479)
-  - [ionic-team/stencil](https://github.com/ionic-team/stencil) - A toolchain for building scalable, enterprise-ready component systems on top of TypeScript and Web Component standards. Stencil components can be distributed natively to React, Angular, Vue, and traditional web developers from a single, framework-agnostic codebase. (⭐️10835)
+  - [infinitered/gluegun](https://github.com/infinitered/gluegun) - A delightful toolkit for building TypeScript-powered command-line apps. \[*MIT License*\] (⭐️2478)
+  - [ionic-team/stencil](https://github.com/ionic-team/stencil) - A toolchain for building scalable, enterprise-ready component systems on top of TypeScript and Web Component standards. Stencil components can be distributed natively to React, Angular, Vue, and traditional web developers from a single, framework-agnostic codebase. (⭐️10837)
   - [its-danny/use-lilius](https://github.com/its-danny/use-lilius) - 📅 A headless calendar hook for React. \[*MIT License*\] (⭐️165)
-  - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a developer in 2022 (⭐️199379)
+  - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a developer in 2022 (⭐️199575)
   - [kevinmarrec/quasar-typescript](https://github.com/kevinmarrec/quasar-typescript) - A starter kit to build powerful and amazing native-looking apps, thanks to the Quasar Framework and TypeScript \[*MIT License*\] (⭐️12) *Archived!*
   - [lifeomic/lambda-typescript-webpack-babel-starter](https://github.com/lifeomic/lambda-typescript-webpack-babel-starter) - This project demonstrates how to write, test, and package AWS Lambda functions using TypeScript, webpack, and babel \[*MIT License*\] (⭐️56) *Archived!*
-  - [luin/ioredis](https://github.com/luin/ioredis) - 🚀 A robust, performance-focused, and full-featured Redis client for Node.js. \[*MIT License*\] (⭐️10681)
-  - [marp-team/marp](https://github.com/marp-team/marp) - The entrance repository of Markdown presentation ecosystem \[*MIT License*\] (⭐️3999)
-  - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output. \[*Apache License 2.0*\] (⭐️82005)
-  - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code \[*MIT License*\] (⭐️133660)
-  - [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, MySQL, MariaDB, PostgreSQL and SQLite databases. \[*MIT License*\] (⭐️4749)
-  - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀 \[*MIT License*\] (⭐️48349)
-  - [ozanyurtsever/verbum](https://github.com/ozanyurtsever/verbum) - Verbum is a fully flexible text editor based on lexical framework. \[*MIT License*\] (⭐️456)
+  - [luin/ioredis](https://github.com/luin/ioredis) - 🚀 A robust, performance-focused, and full-featured Redis client for Node.js. \[*MIT License*\] (⭐️10685)
+  - [marp-team/marp](https://github.com/marp-team/marp) - The entrance repository of Markdown presentation ecosystem \[*MIT License*\] (⭐️4001)
+  - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output. \[*Apache License 2.0*\] (⭐️82039)
+  - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code \[*MIT License*\] (⭐️133700)
+  - [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, MySQL, MariaDB, PostgreSQL and SQLite databases. \[*MIT License*\] (⭐️4753)
+  - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀 \[*MIT License*\] (⭐️48407)
+  - [ozanyurtsever/verbum](https://github.com/ozanyurtsever/verbum) - Verbum is a fully flexible text editor based on lexical framework. \[*MIT License*\] (⭐️462)
   - [piotrwitek/react-redux-typescript-guide](https://github.com/piotrwitek/react-redux-typescript-guide) - The complete guide to static typing in "React & Redux" apps using TypeScript \[*MIT License*\] (⭐️12038)
   - [plouc/nivo](https://github.com/plouc/nivo) - nivo provides a rich set of dataviz components, built on top of the awesome d3 and React libraries \[*MIT License*\] (⭐️10251)
-  - [prabhuignoto/react-chrono](https://github.com/prabhuignoto/react-chrono) - 🕜 Modern Timeline Component for React \[*MIT License*\] (⭐️3043)
+  - [prabhuignoto/react-chrono](https://github.com/prabhuignoto/react-chrono) - 🕜 Modern Timeline Component for React \[*MIT License*\] (⭐️3045)
   - [rdlabo-team/serverless-nestjs](https://github.com/rdlabo-team/serverless-nestjs) - nestjs use serverlessframework and lambda (⭐️304)
-  - [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form) - 📋 React Hooks for form state management and validation (Web + React Native) \[*MIT License*\] (⭐️29140)
+  - [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form) - 📋 React Hooks for form state management and validation (Web + React Native) \[*MIT License*\] (⭐️29158)
   - [replit/clui](https://github.com/replit/clui) - CLUI is a collection of JavaScript libraries for building command-driven interfaces with context-aware autocomplete. (⭐️1157)
-  - [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful Syntax Highlighter. \[*MIT License*\] (⭐️3468)
-  - [statelyai/xstate](https://github.com/statelyai/xstate) - State machines and statecharts for the modern web. \[*MIT License*\] (⭐️20646)
-  - [storybookjs/storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more! \[*MIT License*\] (⭐️72529)
-  - [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps \[*MIT License*\] (⭐️60342)
+  - [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful Syntax Highlighter. \[*MIT License*\] (⭐️3473)
+  - [statelyai/xstate](https://github.com/statelyai/xstate) - State machines and statecharts for the modern web. \[*MIT License*\] (⭐️20665)
+  - [storybookjs/storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more! \[*MIT License*\] (⭐️72560)
+  - [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps \[*MIT License*\] (⭐️60384)
   - [swarmion/swarmion](https://github.com/swarmion/swarmion) - A set of tools to build and deploy type-safe Serverless microservices \[*MIT License*\] (⭐️47)
   - [swarmion/template](https://github.com/swarmion/template) - An opinionated Serverless monorepo microservices architecture \[*MIT License*\] (⭐️86)
-  - [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS. \[*MIT License*\] (⭐️15576)
-  - [TanStack/table](https://github.com/TanStack/table) - 🤖 Headless UI for building powerful tables & datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table \[*MIT License*\] (⭐️18184)
+  - [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS. \[*MIT License*\] (⭐️15590)
+  - [TanStack/table](https://github.com/TanStack/table) - 🤖 Headless UI for building powerful tables & datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table \[*MIT License*\] (⭐️18228)
   - [theodo/castore](https://github.com/theodo/castore) - 🦫 A simple way to implement event sourcing in TypeScript \[*MIT License*\] (⭐️9)
-  - [ThomasAribart/json-schema-to-ts](https://github.com/ThomasAribart/json-schema-to-ts) - Infer TS types from JSON schemas 📝 \[*MIT License*\] (⭐️699)
-  - [typeorm/typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms. \[*MIT License*\] (⭐️28697)
-  - [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) - :sparkles: Monorepo for all the tooling which enables ESLint to support TypeScript (⭐️11815)
-  - [TypeStrong/ts-node](https://github.com/TypeStrong/ts-node) - TypeScript execution and REPL for node.js \[*MIT License*\] (⭐️10521)
-  - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless editor framework for web artisans. \[*MIT License*\] (⭐️15483)
+  - [ThomasAribart/json-schema-to-ts](https://github.com/ThomasAribart/json-schema-to-ts) - Infer TS types from JSON schemas 📝 \[*MIT License*\] (⭐️701)
+  - [typeorm/typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms. \[*MIT License*\] (⭐️28714)
+  - [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) - :sparkles: Monorepo for all the tooling which enables ESLint to support TypeScript (⭐️11825)
+  - [TypeStrong/ts-node](https://github.com/TypeStrong/ts-node) - TypeScript execution and REPL for node.js \[*MIT License*\] (⭐️10528)
+  - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless editor framework for web artisans. \[*MIT License*\] (⭐️15487)
   - [vitebook/vitebook](https://github.com/vitebook/vitebook) - 🔥 Blazing fast static-site generator. Powered by Vite. \[*MIT License*\] (⭐️808)
-  - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast! \[*MIT License*\] (⭐️43921)
-  - [vuejs/vue](https://github.com/vuejs/vue) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web. \[*MIT License*\] (⭐️197472)
-  - [wbkd/react-flow](https://github.com/wbkd/react-flow) - Highly customizable library for building interactive node-based UIs, editors, flow charts and diagrams  \[*MIT License*\] (⭐️11174)
+  - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast! \[*MIT License*\] (⭐️43974)
+  - [vuejs/vue](https://github.com/vuejs/vue) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web. \[*MIT License*\] (⭐️197496)
+  - [wbkd/react-flow](https://github.com/wbkd/react-flow) - Highly customizable library for building interactive node-based UIs, editors, flow charts and diagrams  \[*MIT License*\] (⭐️11180)
   - [xcarpentier/react-native-country-picker-modal](https://github.com/xcarpentier/react-native-country-picker-modal) - 🇦🇶 Country picker provides a modal allowing a user to select a country from a list. It display a flag next to each country name. \[*MIT License*\] (⭐️926)
 
 ## Unknown
 
-  - [bmorelli25/Become-A-Full-Stack-Web-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer) - Free resources for learning Full Stack Web Development \[*MIT License*\] (⭐️15199)
+  - [bmorelli25/Become-A-Full-Stack-Web-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer) - Free resources for learning Full Stack Web Development \[*MIT License*\] (⭐️15210)
   - [Bogdanp/awesome-advent-of-code](https://github.com/Bogdanp/awesome-advent-of-code) - A collection of awesome resources related to the yearly Advent of Code challenge. (⭐️1697)
   - [cevr/overnight](https://github.com/cevr/overnight) - A soft vibrant VSCode theme - Based on Sarah Drasner's Night Owl and Dan Abramov's Overreacted blog (⭐️280)
-  - [cjbarber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News. (⭐️15681)
-  - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch. (⭐️147425)
-  - [engineerapart/TheRemoteFreelancer](https://github.com/engineerapart/TheRemoteFreelancer) - Listing of community-curated resources to find topical remote freelance & contract work for software developers, web designers, and more! \[*The Unlicense*\] (⭐️6559)
-  - [getlago/lago](https://github.com/getlago/lago) - Lago is an open-source Stripe Billing alternative. \[*GNU AGPLv3*\] (⭐️208)
+  - [cjbarber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News. (⭐️15684)
+  - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch. (⭐️147614)
+  - [engineerapart/TheRemoteFreelancer](https://github.com/engineerapart/TheRemoteFreelancer) - Listing of community-curated resources to find topical remote freelance & contract work for software developers, web designers, and more! \[*The Unlicense*\] (⭐️6558)
+  - [getlago/lago](https://github.com/getlago/lago) - Lago is an open-source Stripe Billing alternative. \[*GNU AGPLv3*\] (⭐️210)
   - [HackerNews/API](https://github.com/HackerNews/API) - Documentation and Samples for the Official HN API \[*MIT License*\] (⭐️8755)
-  - [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts. \[*Apache License 2.0*\] (⭐️31719)
+  - [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts. \[*Apache License 2.0*\] (⭐️31728)
   - [langjam/langjam](https://github.com/langjam/langjam) -  (⭐️925)
-  - [nayafia/lemonade-stand](https://github.com/nayafia/lemonade-stand) - A handy guide to financial support for open source \[*Creative Commons Zero v1.0 Universal*\] (⭐️6580)
+  - [nayafia/lemonade-stand](https://github.com/nayafia/lemonade-stand) - A handy guide to financial support for open source \[*Creative Commons Zero v1.0 Universal*\] (⭐️6581)
 
 ## Vue
 
@@ -317,5 +317,5 @@ Total starred repositories: `212`
 
 ## ZIL
 
-  - [historicalsource/hitchhikersguide](https://github.com/historicalsource/hitchhikersguide) - The Hitchhiker's Guide to the Galaxy, by Steve Meretzky and Douglas Adams (Infocom) (⭐️894)
+  - [historicalsource/hitchhikersguide](https://github.com/historicalsource/hitchhikersguide) - The Hitchhiker's Guide to the Galaxy, by Steve Meretzky and Douglas Adams (Infocom) (⭐️895)
 
